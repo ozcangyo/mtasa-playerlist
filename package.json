@@ -1,0 +1,17 @@
+{
+  "name": "gyofalan",
+  "version": "31.0.0",
+  "description": "",
+  "main": "gyo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.12.1",
+    "gyo.db": "latest",
+    "gamedig": "^4.0.6"
+  }
+}
